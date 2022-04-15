@@ -1,8 +1,11 @@
-#README.md
+README.md
+=========
 
-##HW07
+HW07
+----
 
 * python version : 3.8.10
+
 * virtual environment : pip install -r requirements.txt
 
 - pprint와 requests 두 모듈을 사용한다.
